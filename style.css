@@ -1,12 +1,12 @@
 body {
-  flex-direction: column;
-  max-width: 35vw;
-  margin: auto;
+  /* flex-direction: column; */
+  background-color: #db554d;
 }
 
-header {
-  background-color: #db554d;
-
+.part1,
+.part2 {
+  max-width: 35vw;
+  margin: 0 auto;
 }
 nav {
   height: 4em;
